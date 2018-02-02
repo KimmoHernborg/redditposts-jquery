@@ -1,0 +1,25 @@
+{
+  "name": "reddit-posts",
+  "version": "1.0.0",
+  "description": "A simple responsive Reddit reader - using the .json api",
+  "author": "Kimmo Hernborg <kimmo.hernborg@gmail.com>",
+  "scripts": {
+    "start": "index.html"
+  },
+  "main": "RedditPosts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KimmoHernborg/redditposts-jquery"
+  },
+  "keywords": [
+    "reddit"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "2.4.x",
+    "node-sass": "2.0.x"
+  },
+  "preferGlobal": true,
+  "private": true,
+  "license": "MIT"
+}
